@@ -1,0 +1,14 @@
+{
+    "question1": {
+      "title": "Capital of India",
+      "answer": "Delhi",
+      "marks": 5,
+      "time": 20
+    },
+    "question2": {
+      "title": "Unit of power",
+      "answer": "Watt",
+      "marks": 5,
+      "time": 20
+    }
+  }
